@@ -1,0 +1,42 @@
+#p1{
+    width: 300px;
+    height: 80px;
+
+    /*border-style: solid;
+    border-width: 2px;
+    border-color: red;*/
+
+    border: 2px double blue;
+
+    /*border-top: 5px dotted blue;
+    border-right: 5px dotted blue;
+    border-bottom: 5px dotted blue;
+    border-left: 5px dotted blue;
+    border-left-color: red;*/
+
+    /*padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-right: 30px;*/
+
+    padding: 10px;
+    /*padding: 10px 50px 10px 20px;
+    padding: 10px 50px 20px;
+    padding: 10px 50px;*/
+
+    margin: 50px 20px;
+    margin-left: 100px;
+    
+}
+
+a{
+    width: 600px;
+    height: 250px;
+    border: 5px solid black;
+}
+
+#container{
+    width: 600px;
+    background-color: aqua;
+    margin: auto;
+}

@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ccc;
+}
+#container{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+img{
+    width: 15%;
+}
+
+figcaption{
+    font-weight: bold;
+    border-bottom: 2px solid #000;
+}
+
+.article-img{
+    width: 25%;
+}
+
+#div-master{
+    overflow: auto;
+}
+
+article{
+    width: 31.3%;
+    background-color: #ccc;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+    text-align: justify;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px #ccc;
+}
+
+.article-figcaption{
+    border-bottom: 3px dashed #000;
+}
+
+.article-conteudo{
+    background-color: #fff;
+}

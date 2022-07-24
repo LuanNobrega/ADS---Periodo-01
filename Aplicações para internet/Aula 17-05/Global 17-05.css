@@ -1,0 +1,55 @@
+body{
+    background-color: #ccc;
+    text-align: center;
+}
+
+#principal{
+    width: 300px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    overflow: auto;
+}
+
+img{
+    width: 300px;
+}
+
+#main-dias{
+    color: rgb(25, 170, 44);
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#main-areia{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+#main-texto{
+    padding: 0px 20px 0px 20px;
+}
+
+footer{
+    background-color: rgb(25, 170, 44);
+}
+
+.footer-class{
+    color: white;
+}
+
+#footer-numero{
+    padding-top: 30px;
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#footer-views{
+    padding-bottom: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
